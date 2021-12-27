@@ -1,0 +1,12 @@
+#Print 
+print function in python takes in python data as int and strings & prints the same in std output.
+
+#Datatypes 
+Data Types	    Examples	                    Explanation	                               Mutable/Immutable?
+Strings	      "Hello!", "23.34"	    Text - anything between" "  becomes string	              Immutable
+Integers	       5364	                     Whole numbers	                                    Immutable
+Floats	        3.1415	                   Decimal Numbers	                                  Immutable
+Booleans	     True, False	           Truth values that represent Yes/No	                    Immutable
+Lists	         [1,2,3,4,5]	            A collection of data,sits between  [ ]         	       Mutable
+Tuples	       (1,2,3,4,5)	            A collection of data,sits between  ( )  	            Immutable
+Dictionaries	{"a":1, "b":2, "c":3}   	A collection of data, sits between  { }                Mutable
