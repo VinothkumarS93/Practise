@@ -10,3 +10,18 @@ Booleans	     True, False	           Truth values that represent Yes/No	        
 Lists	         [1,2,3,4,5]	            A collection of data,sits between  [ ]         	       Mutable
 Tuples	       (1,2,3,4,5)	            A collection of data,sits between  ( )  	            Immutable
 Dictionaries	{"a":1, "b":2, "c":3}   	A collection of data, sits between  { }                Mutable
+
+
+
+Interpreter :
+1.Translates program one statement at a time.
+2.Interpreters usually take less amount of time to analyze the source code. However, the overall execution time is comparatively slower than compilers.
+3.No Object Code is generated, hence are memory efficient.
+4.Programming languages like JavaScript, Python, Ruby use interpreters.
+
+
+Compiler :
+1.Scans the entire program and translates it as a whole into machine code.
+2.Compilers usually take a large amount of time to analyze the source code. However, the overall execution time is comparatively faster than interpreters.
+3.Generates Object Code which further requires linking, hence requires more memory.
+4.Programming languages like C, C++, Java use compilers.
