@@ -1,0 +1,129 @@
+FWD START-END INDEX POSITIVE--(GET VALUE)
+REV START-END INDEX NEGATIVE--(GET VALUE)
+FWD START-END INDEX NEGATIVE--(empty)
+REV START-END INDEX POSITIVE--(empty)
+
+
+
+
+  0     1     2     3      4    5     6     7     8     9    10    11    12     13   14     15    16   17   18   19   20   21   
+
+  I     N     F     O      R    M     A     T     I     O    N           T      E     C      H    N    O     L    O    G    Y 
+  
+ -22  -21   -20    -19    -18  -17   -16   -15   -14   -13  -12   -11   -10     9-   -8     -7   -6    -5   -4   -3   -2   -1   
+
+
+#[-2:0:-1]--GOLONHCET NOIYAMROFN
+#[5:-5:5]--MNH
+#[-5:5:-5]--OTT
+#[5:-5:-5]--
+#[3:9:-1]--
+#[9:-10:-2]--
+#[2:-4:-4]--
+#[-4:2:-2]--LNCTNIAR
+#[0:-1:-3]--
+#[-3:3:6]--
+#[::-3]--YLHTOAOI
+#[::-2]--YOOHE OTMON
+#[2:-2:-2]--
+#[2:-2:2]--FRAINTCNL
+#[5:-5:5]--MNH
+#[3:-3:3]--OAOTHL
+#[::2]--IFRAINTCNLG
+#[::-5]--YN AN
+
+
+"python_is_using_interpreter"
+
+0     1     2     3      4    5     6     7      8     9    10    11    12     13   14     15    16   17   18   19   20   21    22    23    24     25    26
+
+P     Y     T     H      O    N     _     I      S     _    U     S      I     N    G       _     I    N    T    E    R    P     R     E     T      E     R
+
+-27  -26  -25   -24    -23   -22   -21   -20    -19   -18  -17   -16   -15   -14   -13     -12   -11   -10   9-  -8   -7   -6    -5   -4    -3      -2    -1
+
+
+
+#[-2:0:-1]--ETERPRETNI_GNISU_SI_NOHTY
+#[5:-5:5]--NU_R
+#[-5:5:-5]--RNII
+#[5:-5:-5]--
+#[3:9:-1]--
+#[9:-10:-2]--
+#[2:-4:-4]--
+#[-4:2:-2]--EPEN_NS_INH
+#[0:-1:-3]--
+#[-3:3:6]--
+#[::-3]--RERNGSSNT
+#[::-2]--RTRRTIGIUS_OTP
+#[2:-2:-2]--
+#[2:-2:2]--TO_SUIGITRRT
+#[5:-5:5]--NU_R
+#[3:-3:3]--H__I_TP
+#[::2]--PTO_SUIGITRRTR
+#[::-5]--RPIS_Y
+
+
+"COMPUTER_SCIENCE"
+
+
+0     1     2      3      4     5     6     7      8     9    10    11    12     13   14     15 
+
+C     O     M      P      U     T     E     R      _     S     C    I     E      N     C     E
+
+-16   -15   -14   -13     -12  -11   -10   -9      -8   -7   -6    -5   -4    -3      -2    -1
+
+
+
+print(a[-10:10:3])--ES
+print(a[-5:-1:1])--IENC
+print(a[-8:-2:10])--_
+print(a[5::3])--T_IC
+print(a[:5:2])--CMU
+print(a[10:14:2])--CE
+print(a[-10:-3:3])--ESE
+print(a[5:12:5])--TC
+print(a[3:-3:3])--PESE
+print(a[-5:-3:20])--I
+
+
+  0     1     2     3      4    5     6     7     8     9    10    11    12     13   14     15    16   17   18   19   20   21   
+
+  I     N     F     O      R    M     A     T     I     O    N           T      E     C      H    N     O    L    O    G    Y   
+
+ -22   -21   -20   -19  -18   -17   -16   -15   -14   -13   -12    -11   -10   -9    -8     -7    -6    -5   -4   -3   -2   -1  
+
+print(a[-10:10:3])--
+print(a[-5:-1:1])--OLOG
+print(a[-8:-2:10])--C
+print(a[5::3])--MI COG
+print(a[:5:2])--IFR
+print(a[10:14:2])--NT
+print(a[-10:-3:3])--THL
+print(a[5:12:5])--MN
+print(a[3:-3:3])--OAOTHL
+print(a[-5:-3:20])--O
+
+
+
+#GOOGLE_CHROME_BROWSER
+
+
+0     1     2     3      4    5     6     7     8     9    10    11    12     13   14     15    16   17   18   19   20     
+
+G     O     O     G      L    E     _     C     H     R     O     M     E      _    B      R     O    W    S    E    R  
+
+-21  -20   -19  -18   -17   -16   -15   -14   -13   -12    -11   -10   -9    -8     -7    -6    -5   -4   -3   -2   -1
+
+
+print(a[-10:10:3])--
+print(a[-5:-1:1])--OWSE
+print(a[-8:-2:10])--_
+print(a[5::3])--EHMBWR
+print(a[:5:2])--GOL
+print(a[10:14:2])--OE
+print(a[-10:-3:3])--MBW
+print(a[5:12:5])--EO
+print(a[3:-3:3])--G_RER
+print(a[-5:-3:20])--O
+
+
